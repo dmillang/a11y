@@ -168,7 +168,7 @@ h6, .h6 {
   color: #00598f;
 }
 
-.modal {
-  display: block;
+button.close {
+  display: none;
   left: 9999px;
 }
